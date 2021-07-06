@@ -1,5 +1,7 @@
 # eWAY Rapid Ruby Library
 
+**THIS FORK WAS MADE TO UPDATE THIS GEM'S DEPENDENCIES**
+
 [![Latest Version on RubyGems][ico-version]][link-rubygems]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
