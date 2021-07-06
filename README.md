@@ -88,5 +88,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/eWAYPayment/eway-rapid-ruby/master.svg?style=flat-square
 
-[link-rubygems]: https://rubygems.org/gems/eway_rapid
-[link-travis]: https://travis-ci.org/eWAYPayment/eway-rapid-ruby
+[link-rubygems]: https://rubygems.com/gems/eway_rapid
+[link-travis]: https://travis-ci.com/eWAYPayment/eway-rapid-ruby
