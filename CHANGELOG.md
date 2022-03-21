@@ -2,6 +2,18 @@
 
 All notable changes will be documented in this file
 
+## 2.0.3
+
+ - Avoid warnings about git or .git when running
+
+## 2.0.2
+
+ - Ruby 3 support (URI.encode fix)
+
+## 2.0.1
+
+ - Allow bundler and json dependencies to be upgraded
+
 ## 2.0.0
 
  - Dropped support for Ruby 1.9
