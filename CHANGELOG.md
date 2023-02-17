@@ -2,6 +2,13 @@
 
 All notable changes will be documented in this file
 
+## [2.1.0](https://github.com/blake-education/eway-rapid-ruby/compare/v2.0.0...v2.1.0) (2023-02-17)
+
+
+### Features
+
+* add release please for publishing packages to github ([330f325](https://github.com/blake-education/eway-rapid-ruby/commit/330f325be7fc3f8c527b43b4a3963a15ab9d3a1c))
+
 ## 2.0.0
 
  - Dropped support for Ruby 1.9
